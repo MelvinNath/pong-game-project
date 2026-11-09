@@ -47,7 +47,6 @@ int main()
     // to make the paddle
     player.x = 0;
     player.y = screen_height/2;
-    player.width = 
 
     while(WindowShouldClose() == false)
     {
